@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Toon Paint",
+  "description": "A vibrant pop-art drawing suite for cartoonists featuring fluid brush dynamics and high-performance layer-based canvases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
